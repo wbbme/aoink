@@ -2662,7 +2662,7 @@ body,
 }
 
 .about-content-area .content-box .info .call {
-  border-top: 1px solid #e7e7e7;
+  border-top: 1px solid #1273eb;
   margin-top: 30px;
   padding-top: 30px;
   display: flex;
@@ -3104,7 +3104,7 @@ body,
 .services-area ul.achivement li {
   display: inline-block;
   margin-right: 80px;
-  float: left;
+  /* float: left; */
   font-family: "Poppins", sans-serif;
 }
 
@@ -6079,7 +6079,7 @@ body,
 
 .sidebar-item.social-sidebar li {
   display: inline-block;
-  float: left;
+  /* float: left; */
   margin-right: 10px;
   margin-bottom: 10px;
 }
